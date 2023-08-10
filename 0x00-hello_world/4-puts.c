@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
-*main - program that prints scentese followed by a new line
-*return: always 0 (sucsses)
+* main - Entry point
+* Return: always 0 (sucsses)
 */
 int main(void)
 {
